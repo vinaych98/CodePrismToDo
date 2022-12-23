@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  height: 30px;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.pen-task{
+  list-style: none;
+
+}
+
+h1{
+  margin-top: 30px;
+  text-align: center;
+  color: black;
+}
+.input-add-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 10px goldenrod;
+  justify-content: center;
+}
+.comp-task{
+  list-style: none;
+  font-weight: bold;
+  color: grey;
+}
+.sec-hr{
+  margin-top: 300px;
+}
+.completed{
+  width: 80px;
+  font-size: 12px;
+  height: 20px;
+  text-align: center;
+  padding: 0px;
+  margin-left: 200px;
+  margin-right: 20px;
+}
+.delete{
+  width: 80px;
+  font-size: 12px;
+  height: 20px;
+  text-align: center;
+  padding: 0px;
+  margin-right: 20px;
+}
+.add{
+  width: 80px;
+  font-size: 12px;
+  height: 30px;
+  text-align: center;
+  padding: 0px;
+  margin-left: 30px;
+}
+input{
+  border-radius: 5px;
+  padding-left: 10px;
+  height: 30px;
+}
+.comp-heading{
+  font-size: 20px;
+  color: green;
+  font-style: italic;
+  text-decoration: underline;
+  margin-left: 20px;
+}
+.pen-heading{
+  font-size: 20px;
+  color: red;
+  font-style: italic;
+  text-decoration: underline;
+  margin-left: 20px;
+}
+
+.yet-tasks{
+  text-align: start;
+}
